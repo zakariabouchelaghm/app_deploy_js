@@ -1,5 +1,5 @@
 {
-  "name": "handwriting-api",
+  "name": "app_deploy_js",
   "version": "1.0.0",
   "description": "Handwriting digit prediction API with TFLite and Express",
   "main": "app.jsx",
